@@ -134,7 +134,7 @@ const Home = () => {
               </tbody>
             </table>
             <button
-            data-aos-anchor-placement="top-center" 
+            data-aos-anchor-placement="top-bottom" 
              data-aos="fade-up"
               onClick={Open}
               className="bg-[#418D3F] w-1/2 py-1 font-semibold text-2xl text-white rounded-md transition duration-10 ease-in-out hover:bg-[#A5DD9D] hover:text-[#267124] hover:ring-[#418D3F] hover:ring-[3px]"

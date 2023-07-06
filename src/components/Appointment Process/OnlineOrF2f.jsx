@@ -8,7 +8,7 @@ const OnlineOrF2f = () => {
   }, [])
   return (
     <div>
-        asdasd
+        
     </div>
   )
 }
