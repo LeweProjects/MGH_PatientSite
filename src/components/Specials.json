@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "Specialization": "Cardiology"
+  },
+  {
+    "id": 2,
+    "Specialization": "Dental Medicine"
+  },
+  {
+    "id": 3,
+    "Specialization": "Dermatology"
+  },
+  {
+    "id": 4,
+    "Specialization": "Emergency Medicine"
+  },
+  {
+    "id": 6,
+    "Specialization": "Genetic Counseling"
+  },
+  {
+    "id": 7,
+    "Specialization": "Infectious Disease"
+  },
+  {
+    "id": 8,
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "id": 9,
+    "Specialization": "Medical Affairs"
+  },
+  {
+    "id": 10,
+    "Specialization": "Medico-Legal"
+  },
+  {
+    "id": 11,
+    "Specialization": "Neurosciences"
+  }
+]
