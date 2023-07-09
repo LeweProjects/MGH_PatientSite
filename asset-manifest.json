@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/MGH_PatientSite/static/css/main.b0cd9f95.css",
-    "main.js": "/MGH_PatientSite/static/js/main.68d49a09.js",
+    "main.css": "/MGH_PatientSite/static/css/main.691a2a2c.css",
+    "main.js": "/MGH_PatientSite/static/js/main.dbdcf13f.js",
     "static/media/RoomEx1.png": "/MGH_PatientSite/static/media/RoomEx1.9ec027e13e2c3901dabf.png",
     "static/media/RoomEx2.png": "/MGH_PatientSite/static/media/RoomEx2.33b4a6dfa85a4a015819.png",
     "static/media/hero4.png": "/MGH_PatientSite/static/media/hero4.fc0bd88174d93bfe02dd.png",
@@ -12,11 +12,11 @@
     "static/media/hero1.png": "/MGH_PatientSite/static/media/hero1.5573cdd61c9341386d1e.png",
     "static/media/MGHlogo.png": "/MGH_PatientSite/static/media/MGHlogo.2214a25b1841baf7e49d.png",
     "index.html": "/MGH_PatientSite/index.html",
-    "main.b0cd9f95.css.map": "/MGH_PatientSite/static/css/main.b0cd9f95.css.map",
-    "main.68d49a09.js.map": "/MGH_PatientSite/static/js/main.68d49a09.js.map"
+    "main.691a2a2c.css.map": "/MGH_PatientSite/static/css/main.691a2a2c.css.map",
+    "main.dbdcf13f.js.map": "/MGH_PatientSite/static/js/main.dbdcf13f.js.map"
   },
   "entrypoints": [
-    "static/css/main.b0cd9f95.css",
-    "static/js/main.68d49a09.js"
+    "static/css/main.691a2a2c.css",
+    "static/js/main.dbdcf13f.js"
   ]
 }
